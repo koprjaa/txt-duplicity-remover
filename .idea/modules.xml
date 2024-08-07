@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/odstranovac_duplicit.iml" filepath="$PROJECT_DIR$/.idea/odstranovac_duplicit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/txt-duplicity-remover.iml" filepath="$PROJECT_DIR$/.idea/txt-duplicity-remover.iml" />
     </modules>
   </component>
 </project>
